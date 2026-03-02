@@ -1,8 +1,9 @@
 {
-"homepage": "https://Poornima20052005.github.io/movie-app",
+
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://Poornima20052005.github.io/movie-search-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
